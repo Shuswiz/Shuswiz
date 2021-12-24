@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shuswiz
 - 👀 I’m interested in learning new programming languages and expanding my knowledge of hardware while learning about software
 - 🌱 I’m currently learning c and python
-- 💞️ I’m looking to collaborate on an AI project. I have some ideas with AI in education and would like someone experienced to help with it.
+- 💞️ I’m looking to collaborate on projects to gain experience and learn more and more.
 - 📫 How to reach me twitter: @shuswabhit 
 
 <!---
